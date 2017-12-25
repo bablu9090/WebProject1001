@@ -4,12 +4,12 @@ package chapter07;
 
  public class J07_07{
 public static void main(String args[]) {
- String   S1, S2, S3, S4;
- S1 = new String("Java");
- S2 = new String("Programming");
- S3 = "Welcome to " + S1 +" " +S2;
+ String   p1, p2, p3, p4;
+ p1 = new String("Java");
+ p2 = new String("Programming");
+ p3 = "Welcome to " + p1 +" " +p2;
  System.out.println(S3);
- S4 = S3;
+ p4 = p3;
  System.out.println(S4);
  }
 } 
