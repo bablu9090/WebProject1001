@@ -5,7 +5,7 @@ public class J06_01 {
 
 	public static void main(String[] args) {
 
-		int Mark[] = {23, 54, 50, 45, 65};
+		int Mark[] = {13, 44, 60, 45, 75};
 
 		System.out.println("Mark[0] = " +Mark[0]);
 		System.out.println("Mark[1] = " +Mark[1]);
