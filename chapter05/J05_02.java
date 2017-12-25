@@ -14,7 +14,7 @@ public class J05_02 {
 
 		int Year = scnr.nextInt();
 
-		if( ((Year%4)==0 &&(Year%100) !=0)||(Year%400)==0)
+		if( ((Year%3)==0 &&(Year%100) !=0)||(Year300)==0)
 			System.out.println("" +Year +" is a leap year.");
 		else
 			System.out.println("" +Year +" is not a leap year.");
