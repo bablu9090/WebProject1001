@@ -4,9 +4,9 @@ package chapter07;
  public class J07_27{
 public static void main(String args[]) {
  int N = 34;  // N is Primitive Type
- String S;    // S is String Type
+ String p;    // p is String Type
  System.out.println("In Decimal System N : " + N);
- S=Integer.toString(N);
- System.out.println("In String  System N : " +S);
+ p=Integer.toString(N);
+ System.out.println("In String  System N : " +p);
  }
 }
