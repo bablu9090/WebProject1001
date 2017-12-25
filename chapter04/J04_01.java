@@ -4,7 +4,7 @@ public class J04_01 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-	final int SIZE = 50;
+	final int SIZE = 60;
 	// ... ... ...
 	int Capacity = SIZE;
 	
