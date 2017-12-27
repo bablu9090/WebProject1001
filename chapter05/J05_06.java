@@ -5,7 +5,7 @@ import java.io.IOException;
 
 public class J05_06 {
 
-
+//a forA, b for B
 	public static void main(String args[]) throws IOException { 
 
 	 
