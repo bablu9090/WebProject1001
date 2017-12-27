@@ -1,6 +1,7 @@
 package chapter07;
 /* J07_08.java */
 /*  Example of toString() Method */
+// oops
  public class J07_08{
 public static void main(String args[]) {
  StringBuffer   S1;
